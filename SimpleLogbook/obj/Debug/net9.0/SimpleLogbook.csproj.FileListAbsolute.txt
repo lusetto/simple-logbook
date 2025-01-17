@@ -1,0 +1,14 @@
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\bin\Debug\net9.0\SimpleLogbook.exe
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\bin\Debug\net9.0\SimpleLogbook.deps.json
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\bin\Debug\net9.0\SimpleLogbook.runtimeconfig.json
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\bin\Debug\net9.0\SimpleLogbook.dll
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\bin\Debug\net9.0\SimpleLogbook.pdb
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\SimpleLogbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\SimpleLogbook.AssemblyInfoInputs.cache
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\SimpleLogbook.AssemblyInfo.cs
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\SimpleLogbook.csproj.CoreCompileInputs.cache
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\SimpleLogbook.dll
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\refint\SimpleLogbook.dll
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\SimpleLogbook.pdb
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\SimpleLogbook.genruntimeconfig.cache
+C:\Users\wizard\Documents\Repos\logbook\SimpleLogbook\obj\Debug\net9.0\ref\SimpleLogbook.dll
