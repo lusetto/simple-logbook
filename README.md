@@ -9,6 +9,7 @@ I've taking it upon myself to create this "perfect" but simple logbook. All crit
 #### To be added:
 * Edit past logs
 * Delete logs
+* Categorize logs
 
 ### Task list
 * Add task
