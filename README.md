@@ -19,6 +19,7 @@ I've taking it upon myself to create this "perfect" but simple logbook. All crit
 * Mark task as done
 * Option to auto delete tasks when done
 * Task priorities
+* Subtasks
 
 ### Other features
 #### To be added:
