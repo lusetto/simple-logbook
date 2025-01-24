@@ -1,0 +1,32 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Simple Logbook" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="5"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label>Tasks</Label>
+        <GridSplitter Grid.Row="2" HorizontalAlignment="Stretch" Height="5"/>
+        <TextBox Grid.Row="3" AcceptsReturn="True" TextWrapping="Wrap"/>
+
+        <GridSplitter Grid.Column="1" Grid.RowSpan="4" HorizontalAlignment="Center" VerticalAlignment="Stretch" Width="5"/>
+
+        <Label Grid.Column="2">Logs</Label>
+        <GridSplitter Grid.Column="2" Grid.Row="2" HorizontalAlignment="Stretch" Height="5"/>
+        <TextBox Grid.Column="2" Grid.Row="3" AcceptsReturn="True" TextWrapping="Wrap"/>
+    </Grid>
+</Window>
